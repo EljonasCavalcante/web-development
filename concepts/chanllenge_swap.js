@@ -6,5 +6,7 @@ let b = 94;
  a = b;
  b = temp;
 
+ // outra maneira seria [a,b] = [b,a]
+
  console.log("a = " + a);
  console.log("b = " + b);
