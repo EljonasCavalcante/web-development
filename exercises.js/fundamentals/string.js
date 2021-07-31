@@ -13,3 +13,4 @@ console.log(school.replace(3, "e"))
 console.log(school.replace(/\d/, "a")) //    /\d/ "substuir todos os digitos "a" "
 
 console.log('Ana,Maria,Pedro'.split(","))
+
