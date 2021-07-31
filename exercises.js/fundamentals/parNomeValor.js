@@ -5,7 +5,7 @@ function exec() {
   const saudacao = 'fala'
   return saudacao
 }
-
+// duas maneiras
 const cliente ={
   nome: 'perdro',
   idade:32,
