@@ -18,3 +18,8 @@ const cliente ={
 
 console.log(saudacao)
 console.log(exec())
+
+let soma = (a, b) => {
+    return a + b
+}
+ console.log('X = ' + 10, 9)
