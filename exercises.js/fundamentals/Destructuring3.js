@@ -5,5 +5,5 @@ function rand({ min = 0, max = 1000 }) {
 
 const valor = { max:50, min:40} // {obj} poderia subtituir nome valor por Obj.
 console.log(rand(valor)) 
-  
-
+console.log(rand({ min: 955 }))
+console.log(rand({}))
