@@ -1,4 +1,4 @@
-const imprimirResultado = function (nota) {
+/* const imprimirResultado = function (nota) {
   switch (Math.floor(nota)) {
       case 10:
       case 9:
@@ -26,3 +26,8 @@ imprimirResultado(6.55)
 imprimirResultado(2.3)
 imprimirResultado(11)
 imprimirResultado(-1)
+
+
+
+ */
+
