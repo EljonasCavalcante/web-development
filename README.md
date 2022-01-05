@@ -10,6 +10,7 @@ IIFE (Immediately Invoked Function Expression ou funções auto invocadas. Call 
 
 * Outro conceito muito utilizado em JavaScript que é amplamente abordado é o de Objeto! 
   * Veremos uma introdução à orientação a objetos. 
+  
 Criação de objetos, objetos constantes, notação literal, getters e setters, funções do objeto, herança, comparação JSON x Objeto e classes. 
 Também estudaremos sobre Arrays, forte ferramenta utilizada no JavaScript, 
 veremos seus métodos importantes, Foreach, Map, Filter, Reduce, Concat, 
